@@ -1,0 +1,11 @@
+
+.normal {
+    /* width: 25vw;
+    height: 25vh; */
+}
+
+.bar_chart {
+    width: 25vw;
+    height: 25vh !important;
+    border: 1px solid transparent;
+}

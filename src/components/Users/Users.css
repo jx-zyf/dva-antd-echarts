@@ -1,0 +1,17 @@
+
+.normal {
+    /* width: 75vw; */
+    /* margin: 0 auto; */
+    font-size: 1.5rem;
+}
+
+.operation a {
+    margin: 0.5em;
+}
+.ant-table-pagination{
+    width:100%;
+}
+
+.create{
+    margin: 1.5em 0;
+}

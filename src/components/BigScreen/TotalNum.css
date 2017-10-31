@@ -1,0 +1,24 @@
+
+.normal {
+    text-align: center;
+}
+
+h2{
+    margin-top: 16px;
+    color: #fff;
+    /* font-weight: bolder; */
+    font-size: 20px;
+}
+
+.total_num{
+    margin-top: 15px;
+    font-size: 24px;
+    font-family: '微软雅黑';
+    font-weight: bolder;
+}
+.total_num span{
+    padding: 3px 6px;
+    margin: 0 3px;
+    border-radius: 2px;
+    background-color: #333;
+}

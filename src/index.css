@@ -1,0 +1,7 @@
+
+html, body, :global(#root) {
+  font-family: Georgia, sans-serif;
+  height: 100%;
+  overflow: hidden;
+  min-width: 1000px;
+}

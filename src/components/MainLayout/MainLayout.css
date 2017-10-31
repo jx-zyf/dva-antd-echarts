@@ -1,0 +1,28 @@
+
+.normal {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+}
+
+.breadcrumb{
+    position: absolute;
+    left:260px;
+    top: 55px;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    width: 75vw;
+    margin: 0 auto;
+    position: absolute;
+    top: 4vw;
+    margin-left: 270px;
+}
+
+.main {
+    padding: 0 8px;
+    flex: 1 0 auto;
+}

@@ -1,0 +1,10 @@
+
+.normal {
+    width:50%;
+    height: 25vh !important;
+    float: left;
+    border: 1px solid transparent;
+}
+.bar_chart{
+    height: 25vh !important;
+}
